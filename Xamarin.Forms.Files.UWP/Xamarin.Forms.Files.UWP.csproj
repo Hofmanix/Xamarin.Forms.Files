@@ -119,7 +119,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Xamarin.Forms.Files\Xamarin.Forms.Files\Xamarin.Forms.Files.csproj">
+    <ProjectReference Include="..\Xamarin.Forms.Files\Xamarin.Forms.Files.csproj">
       <Project>{8eac1d1a-1080-47b8-9e66-633ec2b2d9d0}</Project>
       <Name>Xamarin.Forms.Files</Name>
     </ProjectReference>
